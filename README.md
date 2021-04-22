@@ -5,5 +5,5 @@ Backend-node.js,express.js
 Used embedded javascript templating(EJS)
 Deployed the application in Heroku
 link:https://todolistwebsite.herokuapp.com/
-To access work page-https://todolistwebsite.herokuapp.com/work
-To access about page-https://todolistwebsite.herokuapp.com/about
+Can create other lists aswell-
+EX:to create work list-https://todolistwebsite.herokuapp.com/work
